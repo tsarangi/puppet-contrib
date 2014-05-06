@@ -3,4 +3,4 @@ puppet-contrib
 
 Contributed Puppet Modules for OSG
 
-See https://twiki.grid.iu.edu/bin/view/SoftwareTeam/PuppetContribRepo
+See https://twiki.opensciencegrid.org/bin/view/SoftwareTeam/PuppetContribRepo
