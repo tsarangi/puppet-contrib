@@ -1,0 +1,2 @@
+SpecInts = 2700
+LOCAL_CONFIG_FILE = /etc/condor/glow_config /etc/condor/cpu_config/$(DETECTED_CORES)_core

@@ -1,0 +1,6 @@
+/var/log/group_prio_adjust.log {
+	rotate 3
+	size 100M
+	missingok
+	create 644 cmsprod cmsprod
+}
